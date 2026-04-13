@@ -1,0 +1,19 @@
+{
+  "deployId": "20260413T195621Z-new-ui-097243c",
+  "version": "0.1.0",
+  "branch": "new-ui",
+  "branchSlug": "new-ui",
+  "commit": "097243c",
+  "publishedAt": "2026-04-13T19:56:21Z",
+  "extensionId": "ifpkcpnhnmcgoidgdfdpepnedjoplaci",
+  "latestZipUrl": "https://pengjc.github.io/d1extension-pages/artifacts/latest.zip",
+  "latestCrxUrl": "https://pengjc.github.io/d1extension-pages/artifacts/latest.crx",
+  "latestMetadataUrl": "https://pengjc.github.io/d1extension-pages/artifacts/latest.json",
+  "historyUrl": "https://pengjc.github.io/d1extension-pages/artifacts/history.json",
+  "deployJsonUrl": "https://pengjc.github.io/d1extension-pages/artifacts/20260413T195621Z-new-ui-097243c/deploy.json",
+  "zipUrl": "https://pengjc.github.io/d1extension-pages/artifacts/20260413T195621Z-new-ui-097243c/d1extension-0.1.0.zip",
+  "versionedZipUrl": "https://pengjc.github.io/d1extension-pages/artifacts/20260413T195621Z-new-ui-097243c/d1extension-0.1.0.zip",
+  "crxUrl": "https://pengjc.github.io/d1extension-pages/artifacts/20260413T195621Z-new-ui-097243c/d1extension-0.1.0.crx",
+  "versionedCrxUrl": "https://pengjc.github.io/d1extension-pages/artifacts/20260413T195621Z-new-ui-097243c/d1extension-0.1.0.crx",
+  "updateUrl": "https://pengjc.github.io/d1extension-pages/updates.xml"
+}
